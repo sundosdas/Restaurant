@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\views\\categoories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:views\\categoories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\controllers\\userloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:controllers\\userloginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\controllers\\productcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:controllers\\productcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\controllers\\rolessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:controllers\\rolessescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|c:\\users\\dasouqi\\onedrive - unhcr\\desktop\\fullstack- batch\\mvc asp.net\\restaurant\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349B07C3-19E0-41AE-A542-DA455D68BA17}|Restaurant.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Views\\Categoories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Views\\Categoories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categoories\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T09:49:40.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\UserLoginsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserLoginsController.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\UserLoginsController.cs",
+              "RelativeToolTip": "Controllers\\UserLoginsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:45:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RolessesController.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\RolessesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolessesController.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\RolessesController.cs",
+              "RelativeToolTip": "Controllers\\RolessesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:44:10.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\ProductCustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductCustomersController.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\ProductCustomersController.cs",
+              "RelativeToolTip": "Controllers\\ProductCustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:32:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:30:40.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:29:46.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DASOUQI\\OneDrive - UNHCR\\Desktop\\fullstack- batch\\MVC ASP.NET\\Restaurant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:17:28.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
